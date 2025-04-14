@@ -15,7 +15,7 @@ Este projeto consiste em uma **API de Notificações**, desenvolvida com fins ed
 
 ## 🧪 Testes
 
-Durante o desenvolvimento, os endpoints da API foram testados com a ferramenta **[Insomnia](https://insomnia.rest/)**. É recomendável importar a collection de testes caso deseje validar o comportamento localmente.
+Durante o desenvolvimento, os endpoints da API foram testados com a ferramenta **[Insomnia](https://insomnia.rest/)**.
 
 ---
 
