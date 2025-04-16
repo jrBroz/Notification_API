@@ -59,6 +59,17 @@ A seguir, a lista completa dos pacotes utilizados neste projeto, conforme instal
 - `ts-node@10.9.2`
 
 ---
+## Variáveis de Ambiente:
+
+- PUBLIC_URL -> url publica do projeto no Supabase
+- ANON_PUBLIC_KEY -> url publica do projeto no Supabase
+- SECRET_KEY -> Chave para JWT
+- USERNAME -> Username do mailTrap
+- MAILPASSWORD -> senha do mailTrap
+- FROM -> Aquele que envia o email, no caso o seu.
+
+--- 
+
 
 ## 🚀 Como Executar o Projeto
 
